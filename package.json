@@ -1,0 +1,7 @@
+{
+  "name": "universal-ev-charger-card",
+  "version": "2.0.0",
+  "description": "Universal EV Charger Card for Home Assistant",
+  "author": "A. Dexl",
+  "license": "MIT"
+}

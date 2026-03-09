@@ -1,8 +1,6 @@
 {
   "name": "Universal EV Charger Card",
-  "content_in_root": false,
-  "filename": "universal-ev-charger-card.js",
   "render_readme": true,
-  "type": "lovelace",
-  "country": ["DE","EU","US"]
+  "filename": "universal-ev-charger-card.js",
+  "content_in_root": false
 }
